@@ -1,0 +1,122 @@
+*{
+	font-family: sans-serif;
+}
+#khung{
+	width: 1000px;
+	margin: auto;
+}
+/*phương thức*/
+.PT{
+	text-align: center;
+	margin-top: 100px;
+	color: #ff6a00;
+}
+/*đăng nhập*/
+
+#khung p{
+	font-size: 20px;
+	font-weight: bold;
+}
+#khung input{
+	width: 400px;
+	height: 42px;
+	text-indent: 10px;
+	border: 1px solid #caccd1;
+	border-radius: 10px;
+	margin-right: 50px;
+}
+.TD{
+	margin-left: 201px;
+	margin-top: 50px;
+}
+.DANGKY{
+	text-align: center;
+	margin: -33px 0px 0px 230px;
+}
+.DANGKY a{
+	background: #ff6a00;
+	font-size: 20px;
+	border-radius: 10px;
+	text-decoration: none;
+	color: white;
+	padding: 12px 35px;
+}
+.DANGKY a:hover{
+	background: #ce181e;
+	padding: 12px 35px;
+}
+/*Thông tin*/
+.TTC{
+	display: flex;
+	margin-top: 60px;
+	margin-left: 85px;
+	padding-right: 70px;
+}
+.icon{
+	flex: 1;
+	font-size: 45px;
+	margin-right: -700px;
+	color: #ff6a00;
+}
+.text{
+	flex: 1;
+}
+.TTC1{
+	display: flex;
+	margin-top: 30px;
+	margin-left: 85px;
+	padding-right: 70px;
+}
+.icon1{
+	flex: 1;
+	font-size: 45px;
+	margin-right: -700px;
+	color: #ff6a00;
+}
+.text1{
+	flex: 1;
+	margin-top: 6px;
+}
+.KENH{
+	font-size: 17px;
+	font-weight: bold;
+}
+.caccach{
+	font-weight: bold;
+	font-size: 15px;
+}
+.text1 a{
+	text-decoration: none;
+	color: #ff6a00;
+}
+.text1 a:hover{
+	color: #ce181e;
+}
+.BQ{
+	text-align: center;
+	margin-left: 287px;
+}
+.hr{
+	width: 1530px;
+	margin: auto;
+}
+hr{
+	width: 1550px;
+	margin-top: 10px;
+	margin-left: -10px;
+}
+/*TRANG CHỦ*/
+.Trangchu{
+	margin-top: 30px;
+	margin-left: 90px;
+}
+.Trangchu a{
+	text-decoration: none;
+	color: #ff6a00;
+}
+.Trangchu a:active{
+	color: black;
+}
+.Trangchu i{
+	padding-right: 5px;
+}
